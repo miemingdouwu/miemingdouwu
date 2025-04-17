@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<span style="color: red">hi</span>
-
 
 ## 今年汇总 ✨
 
