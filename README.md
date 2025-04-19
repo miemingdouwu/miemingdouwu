@@ -3,10 +3,12 @@ Good luck!
 
 ## 今年汇总 ✨
 
-<div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-  <img style="flex: 1; min-width: 50%" height="137" src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&hide_title=true&layout=compact&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
-  <img style="flex: 1; min-width: 25%" height="137" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide=javascript,html,css&hide_title=true&hide_border=true&theme=radical&locale=cn" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miemingwouwu&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miemingwouwu&repo=convoychat" />
+</a>
 
 ### 贪吃蛇彩蛋 🎄
 <picture>
