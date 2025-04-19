@@ -2,9 +2,9 @@
 Good luck!
 
 ## 今年汇总 ✨
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&layout=compact&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=jolly&card_width=400&height=200" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide_title=true&hide_border=true&theme=jolly&card_width=400&height=200" />
+<div align="left">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&layout=compact&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=jolly&card_width=400&height=200" style="margin-right: 10px;" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide_title=true&hide_border=true&theme=jolly&card_width=400&height=200" />
 </div>
 
 ### 贪吃蛇彩蛋 🎄
