@@ -2,13 +2,12 @@
 Good luck!
 
 ## 今年汇总 ✨
-![Stats](https://github-readme-stats.vercel.app/api?username=miemingdouwu&theme=dark&show_icons=true&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&theme=jolly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide_title=true&hide_border=true&theme=jolly&locale=cn)
-
-<div style="display: flex; gap: 10px;">
-   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
-   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide=javascript,html,css&hide_title=true&hide_border=true&theme=radical&locale=cn" />
- </div>
+<div align="center">
+  <a href="https://github.com/miemingdouwu">
+    <img src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&layout=compact&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=jolly&card_width=400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide_title=true&hide_border=true&theme=jolly&card_width=400" />
+  </a>
+</div>
 
 ### 贪吃蛇彩蛋 🎄
 <picture>
