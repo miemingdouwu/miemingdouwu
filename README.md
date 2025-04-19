@@ -2,8 +2,8 @@
 Good luck!
 
 ## 今年汇总 ✨
-![Stats](https://github-readme-stats.vercel.app/api?username=miemingdouw&theme=dark&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouw&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=miemingdouwu&theme=dark&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact)
 
 <div style="display: flex; gap: 10px;">
    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
