@@ -20,14 +20,6 @@
 
 ---
 
-## 🧠 才疏学浅 🧠
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
----
-
 ## 🎄 贪吃蛇彩蛋 🎄
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YxinMiracle/YxinMiracle/output/github-contribution-grid-snake-dark.svg">
@@ -35,6 +27,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YxinMiracle/YxinMiracle/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+## 🧠 才疏学浅 🧠
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
