@@ -15,7 +15,7 @@
 ## ✨ 今年汇总 ✨
 <div align="left" style="display: flex; flex-wrap: nowrap; gap: 10px;">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=miemingdouwu&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=radical&card_width=400" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide_title=true&hide_border=true&theme=jolly&card_width=400" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miemingdouwu&layout=compact&hide=Jupyter%20Notebook&hide_title=true&hide_border=true&theme=jolly&card_width=400" />
 </div>
 
 ---
